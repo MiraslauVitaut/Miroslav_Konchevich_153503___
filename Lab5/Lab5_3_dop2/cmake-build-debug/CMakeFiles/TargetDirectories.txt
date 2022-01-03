@@ -1,0 +1,3 @@
+/Users/miroslavkonchevich/Desktop/CLionProjects/Lab5/Lab5_3_dop2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/miroslavkonchevich/Desktop/CLionProjects/Lab5/Lab5_3_dop2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/miroslavkonchevich/Desktop/CLionProjects/Lab5/Lab5_3_dop2/cmake-build-debug/CMakeFiles/Lab5_3_dop2.dir
