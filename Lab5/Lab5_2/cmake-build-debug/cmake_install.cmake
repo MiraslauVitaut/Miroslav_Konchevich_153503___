@@ -1,4 +1,4 @@
-# Install script for directory: /Users/miroslavkonchevich/Desktop/CLionProjects/Lab5/Lab5_2
+# Install script for directory: /Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab5/Lab5_2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/miroslavkonchevich/Desktop/CLionProjects/Lab5/Lab5_2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab5/Lab5_2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

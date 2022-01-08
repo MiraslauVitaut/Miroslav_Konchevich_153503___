@@ -41,8 +41,10 @@ void Clear(int* A)
 }
 
 /// Анализ массива
-bool check_array(int* A, int first, int last) {
-    if(first == last) {
+bool check_array(int* A, int first, int last)
+{
+    if(first == last)
+    {
         return A[first]<=first*first;
     }
     int mid = first + (last - first)/2;
@@ -51,9 +53,22 @@ bool check_array(int* A, int first, int last) {
 
 int main()
 {
-    int n(0);
+    int n = 0;
     std::cout << " Введите размер массива N " << std::endl;
+    ///Check
+    while (true)
+    {
+
     std::cin >> n;
+
+    if (std::cin.fail() || std::cin.peek() != '\n' || n <= 1)
+    {
+      std::cin.clear();
+      std::cin.ignore(10000, '\n');
+      std::cout << "Ah Shit, Here We Go Again." << std::endl;
+    }
+    else break;
+  }
     std::cout << std::endl;
 
     std::cout << "Массив A" << std:: endl;

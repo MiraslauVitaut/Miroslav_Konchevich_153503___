@@ -1,0 +1,6 @@
+# CMake generated Testfile for 
+# Source directory: /Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab5/TestsForLab5/Test_3_3/googletest-main/googletest
+# Build directory: /Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab5/TestsForLab5/Test_3_3/cmake-build-debug/googletest-main/googletest
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.

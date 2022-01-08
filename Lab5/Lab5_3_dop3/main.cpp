@@ -98,7 +98,21 @@ int main()
 {
     int n = 0, m = 0;
     std::cout << " Введите размер матриц NxM " << std::endl;
+
+    while (true)
+    {
+
     std::cin >> n >> m;
+
+    if (std::cin.fail() || std::cin.peek() != '\n' || n <= 1 || m<=1)
+    {
+      std::cin.clear();
+      std::cin.ignore(10000, '\n');
+      std::cout << "Ah Shit, Here We Go Again." << std::endl;
+    }
+    else break;
+  }
+
     std::cout << std::endl;
 
     std::cout << "Матрица A" << std:: endl;

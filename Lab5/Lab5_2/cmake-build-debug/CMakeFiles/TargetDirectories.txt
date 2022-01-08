@@ -1,3 +1,3 @@
-/Users/miroslavkonchevich/Desktop/CLionProjects/Lab5/Lab5_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/miroslavkonchevich/Desktop/CLionProjects/Lab5/Lab5_2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/miroslavkonchevich/Desktop/CLionProjects/Lab5/Lab5_2/cmake-build-debug/CMakeFiles/Lab5_2.dir
+/Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab5/Lab5_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab5/Lab5_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab5/Lab5_2/cmake-build-debug/CMakeFiles/Lab5_2.dir

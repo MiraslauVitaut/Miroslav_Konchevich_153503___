@@ -5,6 +5,8 @@
 #include "MyLib.h"
 #include <iostream>
 
+
+
 int** Create(int N, int M)
 {
     int** A;/// Создаем матрицу введенной размерности
