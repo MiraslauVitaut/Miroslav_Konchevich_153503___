@@ -1,6 +1,4 @@
-//
-// Created by Miroslav Konchevich on 9.01.22.
-//
+
 
 #ifndef TEST3_MAIN_H
 #define TEST3_MAIN_H

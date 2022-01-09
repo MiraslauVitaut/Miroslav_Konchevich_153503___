@@ -1,6 +1,4 @@
-//
-// Created by Miroslav Konchevich on 9.01.22.
-//
+
 #include <iostream>
 #ifndef TEST_2_MAIN_H
 #define TEST_2_MAIN_H
