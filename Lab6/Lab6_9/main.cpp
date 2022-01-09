@@ -160,6 +160,3 @@ int main()
 
     DeleteArray(arr);
 }
-
-
-

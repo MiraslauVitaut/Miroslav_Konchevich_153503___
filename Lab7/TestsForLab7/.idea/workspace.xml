@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92d04288-806d-4bcb-9260-d7b56ceee945" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab6/TestsForLab6/Test_1/.idea/Test_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-d0b3a6f77fbe004c8178.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-aa61f0db1fc06be3eaa3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0585dab59683c80d2934.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.cmake/api/v1/reply/directory-LibGTests.googletest-main-Debug-7fb413e7dd8b85b0a5d4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.cmake/api/v1/reply/directory-LibGTests.googletest-main.googlemock-Debug-362e3c44b7a2ea413d3b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.cmake/api/v1/reply/directory-LibGTests.googletest-main.googletest-Debug-8b1897d1cff4354a86ec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.cmake/api/v1/reply/index-2021-12-26T21-26-26-0554.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.cmake/api/v1/reply/target-Lab6_1-Debug-01c8672034dfd7d81bd3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.cmake/api/v1/reply/target-gmock-Debug-8b6a9ff3a6ed8019a3b5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.cmake/api/v1/reply/target-gmock_main-Debug-f14aa5371b80f43c80f5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.cmake/api/v1/reply/target-gtest-Debug-129adfcc9f12443db7aa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.cmake/api/v1/reply/target-gtest_main-Debug-e122489e3b6bd23a046b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/Lab6_1.dir/Lab6_1.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/Lab6_1.dir/Lab6_1.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/Lab6_1.dir/Test1/Test1.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/Lab6_1" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/Lab6_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/.cmake/api/v1/reply/cache-v2-5ac177ef8957d71195ae.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-e1e8a81ff1a9e12cda5d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-27a423c183e3f2679f0a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/.cmake/api/v1/reply/index-2022-01-02T19-38-54-0426.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeFiles/Lab6_2.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeFiles/Lab6_2.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/Lab6_2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/Lab6_2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/.cmake/api/v1/reply/cache-v2-fc281aee0cbfc96f23a5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4a0b3ac7e3e08d2d764e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-a3f4618027878fbf1f89.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/.cmake/api/v1/reply/index-2022-01-02T19-38-30-0505.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeFiles/Lab6_3.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeFiles/Lab6_3.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/Lab6_3" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/Lab6_3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_3/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_3/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4cdad6d168f4b16e438c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-72c46962499af5850446.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8df7d9e4fa2d95d8d615.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/.cmake/api/v1/reply/index-2022-01-03T00-03-48-0396.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeFiles/Lab6_4_1.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeFiles/Lab6_4_1.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/Lab6_4_1" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/Lab6_4_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_4_1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab6/Lab6_9/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab6/Lab6_9/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="23RPFyWTpVwdXauaWJrnP8Aq8dy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92d04288-806d-4bcb-9260-d7b56ceee945" name="Changes" comment="" />
+      <created>1641693826241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641693826241</updated>
+      <workItem from="1641693827317" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

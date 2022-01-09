@@ -39,13 +39,13 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/miroslavkonchevich/Desktop/Miroslav_Konchevich_153503___/Lab6/Lab6_2/cmake-build-debug/
+cmake_ninja_workdir = /Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab6/Lab6_2/cmake-build-debug/
 
 #############################################
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/miroslavkonchevich/Desktop/Miroslav_Konchevich_153503___/Lab6/Lab6_2/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/miroslavkonchevich/Desktop/Miroslav_Konchevich_153503___/Lab6/Lab6_2 -B/Users/miroslavkonchevich/Desktop/Miroslav_Konchevich_153503___/Lab6/Lab6_2/cmake-build-debug
+  COMMAND = cd /Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab6/Lab6_2/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab6/Lab6_2 -B/Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab6/Lab6_2/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -57,7 +57,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/miroslavkonchevich/Desktop/Miroslav_Konchevich_153503___/Lab6/Lab6_2/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab6/Lab6_2/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -72,7 +72,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 
 build cmake_object_order_depends_target_Lab6_2: phony || CMakeFiles/Lab6_2.dir
 
-build CMakeFiles/Lab6_2.dir/main.cpp.o: CXX_COMPILER__Lab6_2_Debug /Users/miroslavkonchevich/Desktop/Miroslav_Konchevich_153503___/Lab6/Lab6_2/main.cpp || cmake_object_order_depends_target_Lab6_2
+build CMakeFiles/Lab6_2.dir/main.cpp.o: CXX_COMPILER__Lab6_2_Debug /Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab6/Lab6_2/main.cpp || cmake_object_order_depends_target_Lab6_2
   DEP_FILE = CMakeFiles/Lab6_2.dir/main.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/Lab6_2.dir
@@ -106,7 +106,7 @@ build Lab6_2: CXX_EXECUTABLE_LINKER__Lab6_2_Debug CMakeFiles/Lab6_2.dir/main.cpp
 # =============================================================================
 
 #############################################
-# Folder: /Users/miroslavkonchevich/Desktop/Miroslav_Konchevich_153503___/Lab6/Lab6_2/cmake-build-debug
+# Folder: /Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab6/Lab6_2/cmake-build-debug
 
 build all: phony Lab6_2
 

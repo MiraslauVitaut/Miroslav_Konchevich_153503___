@@ -36,9 +36,6 @@ void Search(char * arr , std::string str)
         isUnic = true;
 
 
-
-
-
     }
 
 
