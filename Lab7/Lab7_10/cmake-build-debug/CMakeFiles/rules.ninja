@@ -42,7 +42,7 @@ rule CXX_EXECUTABLE_LINKER__Lab7_10_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/miroslavkonchevich/Desktop/CLionProjects/Lab7/Lab7_10 -B/Users/miroslavkonchevich/Desktop/CLionProjects/Lab7/Lab7_10/cmake-build-debug
+  command = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab7/Lab7_10 -B/Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab7/Lab7_10/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

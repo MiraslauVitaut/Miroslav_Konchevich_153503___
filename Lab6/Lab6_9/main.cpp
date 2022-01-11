@@ -50,27 +50,10 @@ double exponenta(char* arr, int& i)
     return sum1;
 }
 
-void DeleteArray(char * arr)
+
+double summ(char* arr, int& numb)
 {
-    free(arr);
-}
-
-int main()
-{
-    int numb = 1;
-    double sum = 0;
-
-    char* arr = (char*)malloc(numb * sizeof(char*));
-
-
-    for (int i = 0; std::cin.peek() != '\n'; i++)
-    {
-        arr[i] = std::cin.get();
-        numb++;
-        arr = (char *) realloc(arr, numb * sizeof(char *));
-    }
-
-    numb--;
+    double sum = 0;;
 
     for (int i = 0; i < numb; i++)
     {
@@ -156,7 +139,31 @@ int main()
             sum += sum1 * pow(10, rezsum);
         }
     }
-    std::cout << sum << "\n";
+
+    return sum;
+
+}
+
+void DeleteArray(char* arr)
+{
+    free(arr);
+}
+
+int main()
+{
+    int numb = 1;
+    char* arr = (char*)malloc(numb * sizeof(char*));
+    for (int i = 0; std::cin.peek() != '\n'; i++)
+    {
+        arr[i] = std::cin.get();
+        numb++;
+        arr = (char*)realloc(arr, numb * sizeof(char*));
+    }
+    numb--;
+
+    double summa = summ(arr, numb);
+
+    std::cout << summa << "\n";
 
     DeleteArray(arr);
 }

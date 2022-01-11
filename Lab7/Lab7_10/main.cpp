@@ -6,20 +6,8 @@
 std::string numbto3(int number);
 int numbto10(std::string number);
 
-int main()
+std::string Check1( std::string*  barrels ,std::string  poisoned , std::string  slaves)
 {
-    int p;
-
-    std ::cin >> p;
-    std::string poisoned = numbto3(p);
-    std::string slaves = "00000";
-
-    std::string* barrels = new std::string[240];
-    for (int i = 0; i < 240; i++)
-    {
-        barrels[i] = numbto3(i);
-    }
-
     for (int i = 0; i < 240; i++)
     {
         for (int j = 0; j < 5; j++)
@@ -34,7 +22,10 @@ int main()
             }
         }
     }
-
+    return slaves;
+}
+std::string Check2(std::string*  barrels ,std::string  poisoned , std::string  slaves)
+{
     for (int i = 0; i < 240; i++)
     {
         for (int j = 0; j < 5; j++)
@@ -49,6 +40,28 @@ int main()
             }
         }
     }
+
+    return slaves;
+}
+
+
+int main()
+{
+    int p;
+
+    std ::cin >> p;
+    std::string poisoned = numbto3(p);
+    std::string slaves = "00000";
+
+    std::string* barrels = new std::string[240];
+    for (int i = 0; i < 240; i++)
+    {
+        barrels[i] = numbto3(i);
+    }
+
+    slaves = Check1(barrels , poisoned , slaves);
+    slaves = Check2(barrels , poisoned , slaves);
+
 
     std::cout << numbto10(slaves);
 }

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/miroslavkonchevich/Desktop/Miroslav_Konchevich_153503___/Lab6/Lab6_9/cmake-build-debug"
+			"value" : "/Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab6/Lab6_9/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/miroslavkonchevich/Desktop/Miroslav_Konchevich_153503___/Lab6/Lab6_9"
+			"value" : "/Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab6/Lab6_9"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1087,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/miroslavkonchevich/Desktop/Miroslav_Konchevich_153503___/Lab6/Lab6_9/cmake-build-debug"
+			"value" : "/Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab6/Lab6_9/cmake-build-debug"
 		},
 		{
 			"name" : "Lab6_9_IS_TOP_LEVEL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/miroslavkonchevich/Desktop/Miroslav_Konchevich_153503___/Lab6/Lab6_9"
+			"value" : "/Users/miroslavkonchevich/Desktop/GitHub/Miroslav_Konchevich_153503___/Lab6/Lab6_9"
 		}
 	],
 	"kind" : "cache",
