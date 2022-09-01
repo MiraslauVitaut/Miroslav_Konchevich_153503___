@@ -48,7 +48,7 @@ public:
     ~MainWindow();
 
 
-    template<class F>
+    template<class F> 
     typename std::remove_reference<F>::type&& MyMove(F&& t) noexcept;
 
 
